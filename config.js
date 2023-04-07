@@ -10,7 +10,7 @@
 /      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
+/ Author and Main Developer: Mujtaba                                                 /
 / Github: https://github.com/FantoX001/Atlas-MD                                     /
 / Powered By: Team ATLAS                                                            /
 /-----------------------------------------------------------------------------------/
@@ -45,7 +45,7 @@ global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
 global.packname = process.env.PACKNAME || `Atlas MD`;
-global.author = process.env.AUTHOR || "by: Team Atlas";
+global.author = process.env.AUTHOR || "by: Mujtaba";
 global.port = process.env.PORT || "8000";
 
 module.exports = {
